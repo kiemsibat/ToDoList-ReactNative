@@ -19,7 +19,6 @@ const AddTodo = ({submitHandler}) => {
         </View>
     )
 }
-
 const styles = StyleSheet.create({
     input:{
         marginBottom:20,
@@ -31,7 +30,7 @@ const styles = StyleSheet.create({
         borderStyle:'dashed',
     },
     Button:{
-        marginBottom:20,
+        marginBottom:10,
     }
 })
 
